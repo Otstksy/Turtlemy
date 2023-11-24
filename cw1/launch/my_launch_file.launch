@@ -1,0 +1,6 @@
+<launch>
+  <node name="TT1" pkg="cw1" type="turtlemy_TT1.py" />
+  <node name="TT2" pkg="cw1" type="turtlemy_TT2.py" />
+  <node name="TT3" pkg="cw1" type="turtlemy_TT3.py" />
+  <node name="TT4" pkg="cw1" type="turtlemy_TT4.py" />
+</launch>
